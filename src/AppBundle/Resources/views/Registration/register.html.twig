@@ -1,0 +1,15 @@
+{% extends ":template:layout.html.twig" %}
+
+{% block page_title  %}
+    Add New User
+{% endblock page_title %}
+
+{% block page_name  %}
+    Add New User
+{% endblock page_name %}
+
+{% block content %}
+    <div class="row">
+        {% include "FOSUserBundle:Registration:register_content.html.twig" %}
+    </div>
+{% endblock content %}
