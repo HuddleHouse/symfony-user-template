@@ -1,5 +1,4 @@
-uster-order-app
+Symfony FOSUserBundle Scaffoding
 ===============
 
-A Symfony project created on February 20, 2016, 11:27 pm.
-# order-app
+A Symfony project that has a login screen, register screen, user home, admin home, change password and change information 
